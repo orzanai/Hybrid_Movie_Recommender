@@ -1,7 +1,7 @@
 
 # Hybrid Movie Recommender
 
-In this project, I created and Hybrid Recommender System which makes predictions using item-based and user-based recommender methods for the user with the given ID. It considers five recommendations from the user-based model and five recommendations from the item-based model, and ultimately provides ten recommendations from both models.
+In this project, I created a Hybrid Recommender System which makes predictions using item-based and user-based recommender methods for the user with the given ID. It considers five recommendations from the user-based model and five recommendations from the item-based model, and ultimately provides ten recommendations from both models.
 
 ## Dataset
 
